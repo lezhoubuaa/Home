@@ -9,14 +9,14 @@ main:
   - title: "Group"
     url: /teaching/    
     
-  - title: "Teaching"
+  - title: "Capability"
     url: /portfolio/
         
-  - title: "Blog Posts"
+  - title: "Teaching"
     url: /year-archive/
     
-  - title: "CV"
+  - title: "News"
     url: /cv/
     
-  - title: "Guide"
+  - title: "Contact"
     url: /markdown/
